@@ -262,6 +262,10 @@ PRODUCT_PACKAGES += \
     NavbarSammyOverlay \
     NavbarTecnoCamonOverlay
 
+# PixelPropUtils Certification
+PRODUCT_PACKAGES += \
+    CertificationOverlay
+
 # Signal Icons
 PRODUCT_PACKAGES += \
     AquariumSignalOverlay \
